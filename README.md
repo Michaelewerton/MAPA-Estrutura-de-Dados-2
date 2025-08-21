@@ -1,4 +1,4 @@
-MAPA – Estrutura de Dados I: Implementação de Pilha para Inversão de Palavras em C
+MAPA – Estrutura de Dados 2: Implementação de Pilha para Inversão de Palavras em C
 Autor: Michael Ewerton Oliveira Disciplina: Estrutura de Dados I Instituição: UniCesumar
 
 Contextualização do Projeto
